@@ -11,7 +11,7 @@ This is the 2nd Website built by me but, it is irresponsive!!
 ## My Website:
 
 Click here to see my Website: 
-[![My Website](https://img.shields.io/badge/My_Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adnankhan2003.github.io/2-Website-By-Adnan/)
+[![My Website](https://img.shields.io/badge/My_Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adnankhan2003.github.io/Website-By-Adnan/)
 ## 🛠 Skills:
 Javascript, HTML, CSS, C
 
